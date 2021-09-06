@@ -849,4 +849,4 @@ async def help(ctx):
 
 
 
-client.run("ODg0NTEzNTYyMDk2MjA1ODU1.YTZlcg.nVOwxfMz_qLadug3tY6Ybg86q2I")
+client.run("ODg0NTEzNTYyMDk2MjA1ODU1.YTZlcg.bvCn5wDQvKucRVpXLIWTgO0yarE")
